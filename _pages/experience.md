@@ -15,6 +15,10 @@ Education
 * M.S. in School of Mathematics, Sichuan University, 2017.09-2020.06
 * B.S. in School of Mathematics, Sichuan University, 2013.09-2017.06
 
+Visiting
+======
+Visiting Student in School of Computer Science, Peking University, 2022.09-2024.02
+
 Work
 ======
 * PostDoc in School of Mathematics, Sichuan University, 2024.07-now
