@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Siyu Yi (易思宇) is currently a postdoc research fellow with the School of Mathematics, Sichuan University (SCU), under the supervision of Prof. [Huazhen Lin](https://www.huazhenlin.com/). Before joining SCU, she received her Ph.D. degree in School of Statistics and Data Science from Nankai University in June 2024, under the supervision of Prof. [Yongdao Zhou](https://my.nankai.edu.cn/stat/zyd/list.htm). His current research interests lie primarily in the area of graph machine learning, bigdata subsampling, and AI4Science.
+Siyu Yi (易思宇) is currently a postdoc researcher with the School of Mathematics, Sichuan University (SCU), under the supervision of Prof. [Huazhen Lin](https://www.huazhenlin.com/). Before joining SCU, she received her Ph.D. degree in School of Statistics and Data Science from Nankai University in June 2024, under the supervision of Prof. [Yongdao Zhou](https://my.nankai.edu.cn/stat/zyd/list.htm). His current research interests lie primarily in the area of graph machine learning, bigdata subsampling, and AI4Science.
 
 A data-driven personal website
 ======
