@@ -25,7 +25,10 @@ author:
   avatar           : "Yi.jpeg"
   name             : "Siyu Yi"
   pronouns         : # example: "she/her"  
-  bio              : "PostDoc in the School of Mathematics, Sichuan University"
+  bio              : |
+    PostDoc, <br>
+    School of Mathematics <br>
+    Sichuan University
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
