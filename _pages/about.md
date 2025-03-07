@@ -30,10 +30,10 @@ International Conference on Machine Learning <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
 
-1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068.
+1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. **<span style="color:red">JCR Q1, 中科院一区, IF=8.4</span>**
 
 
-1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*. 
+1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*.  **<span style="color:red">JCR Q1, 中科院一区, IF=8.4</span>**
 
 1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025) Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*.
 
