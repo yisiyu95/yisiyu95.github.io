@@ -31,7 +31,6 @@ author:
   uri              : # URL
   email            : "siyuyi@scu.edu.cn" 
 
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LQrte4FOKknkpsyqduk20o1OhRx8JJLHCuU4GAwCoUk&cl=ffffff&w=a"></script>
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -77,6 +76,8 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LQrte4FOKknkpsyqduk20o1OhRx8JJLHCuU4GAwCoUk&cl=ffffff&w=a"></script>
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
