@@ -30,7 +30,7 @@ author:
     School of Mathematics <br>
     Sichuan University
   location         : "Chengdu, China"
-  employer         : "Sichuan University"
+  employer         : # "Sichuan University"
   uri              : # URL
   email            : "siyuyi@scu.edu.cn" 
 
