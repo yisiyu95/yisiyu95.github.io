@@ -42,11 +42,11 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 1.  Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang<sup>\*</sup>. (2024). A survey of data-efficient graph learning. In *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*, 8104-8113. <br>
 [[Paper](../files/24.08.03-IJCAI A survey of data-efficient graph learning.pdf)] *<span style="color:red">IJCAI, CCF-A</span>*
 
-1.  **Siyu Yi<sup>\#</sup>**, **Ze Liu<sup>\#</sup>**, Min-Qian Liu, and Yongdao Zhou (2023). Global likelihood sampler for multimodal distributions, *Journal of Computational and Graphical Statistics*, 32(3), 927-937. <br>
+1.  **Siyu Yi<sup>\#</sup>**, Ze Liu<sup>\#</sup>, Min-Qian Liu, and Yongdao Zhou (2023). Global likelihood sampler for multimodal distributions, *Journal of Computational and Graphical Statistics*, 32(3), 927-937. <br>
 [[Paper](../files/23.07.03-J. Comput. Graphical Stat. Global likelihood sampler for multimodal distributions.pdf)] *<span style="color:red">JCR Q1，中科院二区，IF=2.4</span>*
 
 1.  **Siyu Yi**, and Yongdao Zhou (2023). Model-free global likelihood subsampling for massive data. *Statistics and Computing*, 33(1):9. <br>
 [[Paper](../files/23.02-Stat. Comput. Model-free global likelihood subsampling for massive data.pdf)] *<span style="color:red">JCR Q1，中科院二区，IF=2.2</span>*
 
-1.  **Siyu Yi<sup>\#</sup>**, **Zhengyang Mao<sup>\#</sup>**, Wei Ju, Yongdao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang (2023). Towards long-tailed recognition for graph classification via collaborative experts. *IEEE Transactions on Big Data*, 9(6), 1683-1696.  <br>
+1.  **Siyu Yi<sup>\#</sup>**, Zhengyang Mao<sup>\#</sup>, Wei Ju, Yongdao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang (2023). Towards long-tailed recognition for graph classification via collaborative experts. *IEEE Transactions on Big Data*, 9(6), 1683-1696.  <br>
 [[Paper](../files/23.11.13-TBDATA Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts.pdf)] *<span style="color:red">JCR Q1，IF=7.2</span>*
