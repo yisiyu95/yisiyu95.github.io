@@ -25,7 +25,7 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 (\# Equal Contribution, \* Co-corresponding Author)
 
 1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. <br>
-*<span style="color:red">JCR Q1, 中科院一区, IF=8.4</span>*
+[[Paper](../files/24.07.21-ICML Hypergraph-enhanced dual semi-supervised graph classification.pdf)] *<span style="color:red">JCR Q1, 中科院一区, IF=8.4</span>*
 
 
 1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*.  <br>
