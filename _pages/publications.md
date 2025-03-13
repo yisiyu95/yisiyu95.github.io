@@ -22,6 +22,9 @@ author_profile: true
 1.  Tao Ren, Haodong Zhang, Yifan Wang, Wei Ju, Chengwu Liu, Fanchun Meng, **Siyu Yi**, and Xiao Luo (2025). MHGC: Multi-scale hard sample mining for contrastive deep graph clustering. *Information Processing and Management*. <br>
 *<span style="color:red">JCR Q1，中科院一区，IF=7.4</span>*
 
+1.  Zhengyang Mao, Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, and Ming Zhang (2025). Learning Knowledge-diverse Experts for Long-tailed Graph Classification. *ACM Transactions on Knowledge Discovery from Data*, 19(2), 1-24. <br>
+*<span style="color:red">JCR Q1，IF=4</span>*
+
 
 2024
 ====
