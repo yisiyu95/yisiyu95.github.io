@@ -19,6 +19,7 @@ Siyu Yi (易思宇) is currently a postdoc researcher in the School of Mathemati
 * **2025.01**: One paper has been accepted by ***TMM*** !!
 * **2025.01**: One paper has been accepted by ***Information Processing and Management*** !!
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
+* **2024.11**: One paper has been accepted by ***TKDD*** !!
 
 
 Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
