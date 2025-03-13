@@ -19,7 +19,7 @@ author_profile: true
 1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. <br>
 [[Paper](../files/25.02.27-AAAI C3GNN Cluster-guided Contrastive Class-imbalanced Graph Classification.pdf)] *<span style="color:red">AAAI, CCF-A</span>*
 
-1.  Tao Ren, Haodong Zhang, Yifan Wang, Wei Ju, Chengwu Liu, Fanchun Meng, **Siyu Yi**, and Xiao Luo (2025). MHGC: Multi-scale hard sample mining for contrastive deep graph clustering. *Information Processing and Management*. <br>
+1.  Tao Ren, Haodong Zhang, Yifan Wang, Wei Ju, Chengwu Liu, Fanchun Meng, **Siyu Yi**, and Xiao Luo (2025). MHGC: Multi-scale hard sample mining for contrastive deep graph clustering. *Information Processing and Management*, 62(4), 104084. <br>
 *<span style="color:red">JCR Q1，中科院一区，IF=7.4</span>*
 
 1.  Zhengyang Mao, Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, and Ming Zhang (2025). Learning Knowledge-diverse Experts for Long-tailed Graph Classification. *ACM Transactions on Knowledge Discovery from Data*, 19(2), 1-24. <br>
