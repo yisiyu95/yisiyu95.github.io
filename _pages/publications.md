@@ -14,7 +14,7 @@ author_profile: true
 1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*. 
 *<span style="color:red">NeurIPS, CCF-A</span>*
 
-1.  Xin Ma, Yifan Wang, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, and Jiancheng Lv (2025). PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment. In *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 3198-3207. https://doi.org/10.24963/ijcai.2025/356. <br> [[Paper](../files/25.08.16-IJCAI PALA- Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment)]
+1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, and Jiancheng Lv (2025). PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment. In *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 3198-3207. https://doi.org/10.24963/ijcai.2025/356. <br> [[Paper](../files/25.08.16-IJCAI PALA- Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment)]
 *<span style="color:red">IJCAI, CCF-A</span>*
 
 1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. <br>
