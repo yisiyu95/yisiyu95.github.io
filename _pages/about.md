@@ -12,6 +12,10 @@ Siyu Yi (易思宇) is currently a postdoc researcher in the School of Mathemati
 
 **Email:** siyuyi@scu.edu.cn
 
+Reviewer
+=====
+* AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS24, MM24, TNNLS24, Computer Science Review24
+
 
 <span style="color:red">What’s New</span>
 ====
