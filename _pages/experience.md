@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Review
+=====
+* AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS24, MM24, TNNLS24, Computer Science Review24
+
 Work
 ======
 * PostDoc in School of Mathematics, Sichuan University, 2024.07-now
