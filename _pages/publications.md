@@ -10,6 +10,8 @@ author_profile: true
 
 2025
 ====
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
+<br> [[Paper](../files/25.11.07-IEEE TPAMI A Survey of Graph Neural Networks in Real world- Imbalance, Noise, Privacy and OOD Challenges.pdf)] *<span style="color:red">IEEE TPAMI, JCR Q1, 中科院一区, CCF-A, IF=18.6</span>*
 
 1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*. 
 <br> *<span style="color:red">NeurIPS, CCF-A</span>*
