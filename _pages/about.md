@@ -34,11 +34,14 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 =====
 (\# Equal Contribution, \* Co-corresponding Author)
 
-1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. 
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
+<br> [[Paper](../files/25.11.07-IEEE TPAMI A Survey of Graph Neural Networks in Real world- Imbalance, Noise, Privacy and OOD Challenges.pdf)] *<span style="color:red">IEEE TPAMI, JCR Q1, 中科院一区, CCF-A, IF=18.6</span>*
+
+1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025.3543068. 
 <br> [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] *<span style="color:red">TMM, JCR Q1, 中科院一区, IF=8.4</span>*
 
 1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*. DOI: 10.1109/TMM.2025.3599043. 
-<br> [[Paper](../files/25.08.12-TMM Learning Generalizable Contrastive Representations for Graph Zero-shot Learning)]
+<br> [[Paper](../files/25.08.14-TMM Learning Generalizable Contrastive Representations for Graph Zero-shot Learning)]
 *<span style="color:red">TMM, JCR Q1, 中科院一区, IF=8.4</span>*
 
 1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025) Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. 
