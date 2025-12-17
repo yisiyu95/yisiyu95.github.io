@@ -30,7 +30,7 @@ Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and dom
 <br> [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] 
 *<span style="color:red">IEEE TMM, JCR Q1, 中科院一区, IF=8.4</span>*
 
-1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang<sup>\*</sup> (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*, 39(11), 11924-11932.  
+1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang<sup>\*</sup> (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*, 39(11), 11924-11932.
 <br> [[Paper](../files/25.02.27-AAAI C3GNN Cluster-guided Contrastive Class-imbalanced Graph Classification.pdf)] 
 *<span style="color:red">AAAI, CCF-A</span>*
 
