@@ -22,13 +22,6 @@ Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and dom
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
 <br> [[Paper](../files/25.11.07-IEEE TPAMI A Survey of Graph Neural Networks in Real world- Imbalance, Noise, Privacy and OOD Challenges.pdf)] *<span style="color:red">IEEE TPAMI, JCR Q1, 中科院一区, CCF-A, IF=18.6</span>*
 
-1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *Proceedings of The Thirty-Ninth Conference on Neural Information Processing Systems*. 
-<br> *<span style="color:red">NeurIPS, CCF-A</span>*
-
-1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, and Jiancheng Lv (2025). PALA: Class-imbalanced graph domain adaptation via prototype-anchored learning and alignment. In *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 3198-3207. https://doi.org/10.24963/ijcai.2025/356. 
-<br> [[Paper](../files/25.08.16-IJCAI PALA- Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment)]
-*<span style="color:red">IJCAI, CCF-A</span>*
-
 1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*, 27, 7584-7595. DOI: 10.1109/TMM.2025.3599043. 
 <br> [[Paper](../files/25.08.12-TMM Learning Generalizable Contrastive Representations for Graph Zero-shot Learning)]
 *<span style="color:red">IEEE TMM, JCR Q1, 中科院一区, IF=8.4</span>*
@@ -37,9 +30,16 @@ Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and dom
 <br> [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] 
 *<span style="color:red">IEEE TMM, JCR Q1, 中科院一区, IF=8.4</span>*
 
-1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*, 39(11), 11924-11932.  
+1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang<sup>\*</sup> (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*, 39(11), 11924-11932.  
 <br> [[Paper](../files/25.02.27-AAAI C3GNN Cluster-guided Contrastive Class-imbalanced Graph Classification.pdf)] 
 *<span style="color:red">AAAI, CCF-A</span>*
+
+1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *Proceedings of The Thirty-Ninth Conference on Neural Information Processing Systems*. 
+<br> *<span style="color:red">NeurIPS, CCF-A</span>*
+
+1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, and Jiancheng Lv (2025). PALA: Class-imbalanced graph domain adaptation via prototype-anchored learning and alignment. In *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 3198-3207. https://doi.org/10.24963/ijcai.2025/356. 
+<br> [[Paper](../files/25.08.16-IJCAI PALA- Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment)]
+*<span style="color:red">IJCAI, CCF-A</span>*
 
 1.  Tao Ren, Haodong Zhang, Yifan Wang, Wei Ju, Chengwu Liu, Fanchun Meng, **Siyu Yi**, and Xiao Luo (2025). MHGC: Multi-scale hard sample mining for contrastive deep graph clustering. *Information Processing and Management*, 62(4), 104084. 
 <br> *<span style="color:red">IPM, JCR Q1，中科院一区，IF=7.4</span>*
