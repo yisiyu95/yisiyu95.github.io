@@ -8,45 +8,50 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\# Equal Contribution, \* Co-corresponding Author)
 
-2025
+2026
 ====
 1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
-Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
+Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
 
-1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
+1. Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, **Siyu Yi**, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju (2026). FairGC: Fostering individual and group fairness for deep graph clustering. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
+<br> *<span style="color:red">AAAI, CCF-A</span>*
+
+2025
+====
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
 <br> [[Paper](../files/25.11.07-IEEE TPAMI A Survey of Graph Neural Networks in Real world- Imbalance, Noise, Privacy and OOD Challenges.pdf)] *<span style="color:red">IEEE TPAMI, JCR Q1, 中科院一区, CCF-A, IF=18.6</span>*
 
-1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*. 
+1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, and Jiancheng Lv (2025). Dual prototype-enhanced contrastive framework for class-imbalanced graph domain adaptation. In *Proceedings of The Thirty-Ninth Conference on Neural Information Processing Systems*. 
 <br> *<span style="color:red">NeurIPS, CCF-A</span>*
 
 1.  Xin Ma, Yifan Wang, **Siyu Yi**, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, and Jiancheng Lv (2025). PALA: Class-imbalanced graph domain adaptation via prototype-anchored learning and alignment. In *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 3198-3207. https://doi.org/10.24963/ijcai.2025/356. 
 <br> [[Paper](../files/25.08.16-IJCAI PALA- Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment)]
 *<span style="color:red">IJCAI, CCF-A</span>*
 
-1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. 
-<br> [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] 
-*<span style="color:red">TMM, JCR Q1, 中科院一区, IF=8.4</span>*
-
-1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*. DOI: 10.1109/TMM.2025.3599043. 
+1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*, 27, 7584-7595. DOI: 10.1109/TMM.2025.3599043. 
 <br> [[Paper](../files/25.08.12-TMM Learning Generalizable Contrastive Representations for Graph Zero-shot Learning)]
-*<span style="color:red">TMM, JCR Q1, 中科院一区, IF=8.4</span>*
+*<span style="color:red">IEEE TMM, JCR Q1, 中科院一区, IF=8.4</span>*
 
-1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*. 
+1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*, 27, 7028-7039. DOI:10.1109/TMM.2025. 3543068. 
+<br> [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] 
+*<span style="color:red">IEEE TMM, JCR Q1, 中科院一区, IF=8.4</span>*
+
+1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang* (2025). Cluster-guided contrastive class-imbalanced graph classification. In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*, 39(11), 11924-11932.  
 <br> [[Paper](../files/25.02.27-AAAI C3GNN Cluster-guided Contrastive Class-imbalanced Graph Classification.pdf)] 
 *<span style="color:red">AAAI, CCF-A</span>*
 
 1.  Tao Ren, Haodong Zhang, Yifan Wang, Wei Ju, Chengwu Liu, Fanchun Meng, **Siyu Yi**, and Xiao Luo (2025). MHGC: Multi-scale hard sample mining for contrastive deep graph clustering. *Information Processing and Management*, 62(4), 104084. 
 <br> *<span style="color:red">IPM, JCR Q1，中科院一区，IF=7.4</span>*
 
-1.  Zhengyang Mao, Wei Ju, **Siyu Yi**, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, and Ming Zhang (2025). Learning Knowledge-diverse Experts for Long-tailed Graph Classification. *ACM Transactions on Knowledge Discovery from Data*, 19(2), 1-24. 
-<br> *<span style="color:red">TKDD, JCR Q1，IF=4</span>*
+1.  Zhengyang Mao, Wei Ju, **Siyu Yi**, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, and Ming Zhang (2025). Learning Knowledge-diverse Experts for Long-tailed Graph Classification. *ACM Transactions on Knowledge Discovery from Data*, 19(2), 32. 
+<br> *<span style="color:red">ACM TKDD, JCR Q1，IF=4</span>*
 
 
 2024
 ====
 1.  **Siyu Yi**, Wei Ju, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang (2024). Redundancy-free self-supervised relational learning for graph clustering. *IEEE Transactions on Neural Networks and Learning Systems*, 35(12), 18313-18327. <br>
-[[Paper](../files/24.11.27-IEEE TNNLS Redundancy-free self-supervised relational learning for graph clustering.pdf)] *<span style="color:red">JCR Q1，中科院一区，IF=10.4</span>*
+[[Paper](../files/24.11.27-IEEE TNNLS Redundancy-free self-supervised relational learning for graph clustering.pdf)] *<span style="color:red">IEEE TNNLS, JCR Q1，中科院一区，IF=10.4</span>*
 
 1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang<sup>\*</sup> (2024). Hypergraph-enhanced dual semi-supervised graph classification. In *Proceedings of the 41st International Conference on Machine Learning*, 22594-22604. <br>
 [[Paper](../files/24.07.21-ICML Hypergraph-enhanced dual semi-supervised graph classification.pdf)] *<span style="color:red">ICML, CCF-A</span>*
