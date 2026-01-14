@@ -19,6 +19,7 @@ AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS
 
 <span style="color:red">What’s New</span>
 ====
+<!-- * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !!
 * **2025.11**: Two paper has been accepted by ***AAAI 2026*** !!
 * **2025.11**: One paper has been accepted by ***TPAMI*** !!
 * **2025.09**: One paper has been accepted by ***NeurIPS 2025*** !!
@@ -27,7 +28,26 @@ AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS
 * **2025.01**: One paper has been accepted by ***TMM*** !!
 * **2025.01**: One paper has been accepted by ***Information Processing and Management*** !!
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
-* **2024.11**: One paper has been accepted by ***TKDD*** !!
+* **2024.11**: One paper has been accepted by ***TKDD*** !! -->
+<details>
+<summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> (点击查看全部发表记录)</summary>
+
+### 2026
+- **2026.01**: Two papers accepted by **AAAI 2026**
+
+### 2025
+- **2025.11**: Two papers accepted by **AAAI 2026**
+- **2025.11**: One paper accepted by **TPAMI** (IEEE Transactions on Pattern Analysis and Machine Intelligence)
+- **2025.09**: One paper accepted by **NeurIPS 2025** (Conference on Neural Information Processing Systems)
+- **2025.04**: One paper accepted by **IJCAI 2025** (International Joint Conference on Artificial Intelligence)
+- **2025.02**: One paper accepted by **TMM** (IEEE Transactions on Multimedia)
+- **2025.01**: One paper accepted by **TMM** (IEEE Transactions on Multimedia)
+- **2025.01**: One paper accepted by **Information Processing and Management**
+
+### 2024
+- **2024.12**: One paper accepted by **AAAI 2025**
+- **2024.11**: One paper accepted by **TKDD** (ACM Transactions on Knowledge Discovery from Data)
+</details>
 
 
 Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
