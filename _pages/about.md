@@ -31,6 +31,7 @@ AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS
 * **2024.11**: One paper has been accepted by ***TKDD*** !! -->
 <details>
 <summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> (点击展开完整列表)</summary>
+<sub><font color="#3988cdff"><u>More</u></font></sub>
 
 * **2026.01**: Two papers accepted by **AAAI 2026**
 * **2025.11**: Two papers accepted by **AAAI 2026**
