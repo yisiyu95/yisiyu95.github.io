@@ -14,7 +14,7 @@ Siyu Yi (易思宇) is currently a postdoc researcher in the School of Mathemati
 
 Reviewer
 =====
-- 2026: ICLR, ICML, AAAI, TAI, PR, Neurocomputing, Applied Soft Computing Journal
+- 2026: ICLR, ICML, AAAI, TAI, PR, Neurocomputing, Applied Soft Computing
 - 2025: ICLR, ICML, NeurIPS, ACL, AISTATS, KBS, ESWA, Entropy 
 - 2024: NeurIPS, ACMMM, TNNLS, Computer Science Review
 
@@ -40,7 +40,7 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-Tailed Recognition of Evidential Experts for Graph-level Classification. *Accepted by the ACM on Web Conference 2026*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
 
-2. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
+1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
 Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
 
