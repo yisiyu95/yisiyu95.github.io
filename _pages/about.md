@@ -32,7 +32,7 @@ Reviewer
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
 * **2024.11**: One paper has been accepted by ***TKDD*** !! -->
 <details>
-<summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> 
+<summary><strong> * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !!</strong> 
 <sub><font color="#3988cdff"><u>More</u></font></sub></summary>
 
 * **2026.01**: Two papers accepted by **AAAI 2026**
