@@ -17,7 +17,7 @@ Reviewer
 AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS24, MM24, TNNLS24, Computer Science Review24
 
 
-<span style="color:red">What’s New</span>
+<span style="color:red"> 📢 What’s New</span>
 ====
 <!-- * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !!
 * **2025.11**: Two paper has been accepted by ***AAAI 2026*** !!
@@ -30,25 +30,32 @@ AAAI26, ICLR25, ICML25, NIPS25, ACL25, AISTATS25, KBS25, ESWA25, Entropy25, NIPS
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
 * **2024.11**: One paper has been accepted by ***TKDD*** !! -->
 <details>
-<summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> (点击查看全部发表记录)</summary>
+<summary> * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !! (点击展开完整列表)</summary>
 
 ### 2026
-- **2026.01**: Two papers accepted by **AAAI 2026**
+* **January 2026**: Two papers accepted by ***AAAI 2026***
 
 ### 2025
-- **2025.11**: Two papers accepted by **AAAI 2026**
-- **2025.11**: One paper accepted by **TPAMI** (IEEE Transactions on Pattern Analysis and Machine Intelligence)
-- **2025.09**: One paper accepted by **NeurIPS 2025** (Conference on Neural Information Processing Systems)
-- **2025.04**: One paper accepted by **IJCAI 2025** (International Joint Conference on Artificial Intelligence)
-- **2025.02**: One paper accepted by **TMM** (IEEE Transactions on Multimedia)
-- **2025.01**: One paper accepted by **TMM** (IEEE Transactions on Multimedia)
-- **2025.01**: One paper accepted by **Information Processing and Management**
+<details>
+<summary>2025年发表 (11篇)</summary>
 
-### 2024
-- **2024.12**: One paper accepted by **AAAI 2025**
-- **2024.11**: One paper accepted by **TKDD** (ACM Transactions on Knowledge Discovery from Data)
+* **November 2025**: Two papers accepted by ***AAAI 2026***
+* **November 2025**: One paper accepted by ***TPAMI***
+* **September 2025**: One paper accepted by ***NeurIPS 2025***
+* **April 2025**: One paper accepted by ***IJCAI 2025***
+* **February 2025**: One paper accepted by ***TMM***
+* **January 2025**: One paper accepted by ***TMM***
+* **January 2025**: One paper accepted by ***Information Processing and Management***
 </details>
 
+### 2024
+<details>
+<summary>2024年发表 (2篇)</summary>
+
+* **December 2024**: One paper accepted by ***AAAI 2025***
+* **November 2024**: One paper accepted by ***TKDD***
+</details>
+</details>
 
 Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 =====
