@@ -11,10 +11,10 @@ author_profile: true
 2026
 ====
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-Tailed Recognition of Evidential Experts for Graph-level Classification. *Accepted by the ACM on Web Conference 2026*. 
-<br> *<span style="color:red">AAAI, CCF-A</span>*
+<br> *<span style="color:red">WWW, CCF-A</span>*
 
 2. Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, **Siyu Yi**, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju (2026). KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection. *Accepted by the ACM on Web Conference 2026*. 
-<br> *<span style="color:red">AAAI, CCF-A</span>*
+<br> *<span style="color:red">WWW, CCF-A</span>*
 
 3. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
 Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
