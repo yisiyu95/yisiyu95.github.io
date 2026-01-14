@@ -32,8 +32,8 @@ Reviewer
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
 * **2024.11**: One paper has been accepted by ***TKDD*** !! -->
 <details>
-<summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> (点击展开完整列表)</summary>
-<sub><font color="#3988cdff"><u>More</u></font></sub>
+<summary><strong>📢 Latest: Two papers accepted by AAAI 2026</strong> 
+<sub><font color="#3988cdff"><u>More</u></font></sub></summary>
 
 * **2026.01**: Two papers accepted by **AAAI 2026**
 * **2025.11**: Two papers accepted by **AAAI 2026**
