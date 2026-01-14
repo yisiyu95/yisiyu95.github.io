@@ -21,7 +21,7 @@ Reviewer
 
 <span style="color:red"> 📢 What’s New</span>
 ====
-<!-- * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !!
+* **2026.01**: Two paper has been accepted by ***WWW 2026*** !!
 * **2025.11**: Two paper has been accepted by ***AAAI 2026*** !!
 * **2025.11**: One paper has been accepted by ***TPAMI*** !!
 * **2025.09**: One paper has been accepted by ***NeurIPS 2025*** !!
@@ -30,23 +30,7 @@ Reviewer
 * **2025.01**: One paper has been accepted by ***TMM*** !!
 * **2025.01**: One paper has been accepted by ***Information Processing and Management*** !!
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
-* **2024.11**: One paper has been accepted by ***TKDD*** !! -->
-<details>
-<summary><strong> * **2026.01**: Two paper has been accepted by ***AAAI 2026*** !!</strong> 
-<sub><font color="#3988cdff"><u>More</u></font></sub></summary>
-
-- **2026.01**: Two papers accepted by **AAAI 2026**
-- **2025.11**: Two papers accepted by **AAAI 2026**
-- **2025.11**: One paper accepted by **TPAMI**
-- **2025.09**: One paper accepted by **NeurIPS 2025**
-- **2025.04**: One paper accepted by **IJCAI 2025**
-- **2025.02**: One paper accepted by **TMM**
-- **2025.01**: One paper accepted by **TMM**
-- **2025.01**: One paper accepted by **Information Processing and Management**
-- **2024.12**: One paper accepted by **AAAI 2025**
-- **2024.11**: One paper accepted by **TKDD**
-</details>
-
+* **2024.11**: One paper has been accepted by ***TKDD*** !!
 
 
 Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
