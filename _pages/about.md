@@ -37,7 +37,10 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 =====
 (\# Equal Contribution, \* Co-corresponding Author)
 
-1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-Tailed Recognition of Evidential Experts for Graph-level Classification. *Accepted by the ACM on Web Conference 2026*. 
+<br> *<span style="color:red">AAAI, CCF-A</span>*
+
+2. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
 Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
 
