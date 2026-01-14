@@ -37,11 +37,11 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 =====
 (\# Equal Contribution, \* Co-corresponding Author)
 
-1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-Tailed Recognition of Evidential Experts for Graph-level Classification. *Accepted by the ACM on Web Conference 2026*. 
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-tailed recognition of evidential experts for graph-level classification. *Accepted by the ACM on Web Conference 2026*. 
 <br> *<span style="color:red">WWW, CCF-A</span>*
 
 1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
-Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
+Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics Data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
 
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
