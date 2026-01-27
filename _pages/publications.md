@@ -10,7 +10,7 @@ author_profile: true
 
 2026
 ====
-1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou<sup>\*</sup>, Xiaochun Cao, Jiancheng Lv (2026). Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering. *Accepted by the 14th International Conference on Learning Representations*.
+1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou<sup>\*</sup>, Xiaochun Cao, Jiancheng Lv (2026). Compactness and Consistency: A conjoint framework for deep graph clustering. *Accepted by the 14th International Conference on Learning Representations*.
 <br> *<span style="color:red">ICLR</span>*
 
 
