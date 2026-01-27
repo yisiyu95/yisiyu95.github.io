@@ -45,8 +45,9 @@ Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
 <br> *<span style="color:red">WWW, CCF-A</span>*
 
 1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
-Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics Data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
-<br> *<span style="color:red">AAAI, CCF-A</span>*
+Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th Annual AAAI Conference on Artificial Intelligence*. 
+<br> [[Paper](../files/26-AAAI Evidence-aware integration and domain identification of spatial transcriptomics data)]
+*<span style="color:red">AAAI, CCF-A</span>*
 
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S. Yu, and Ming Zhang<sup>\*</sup> (2025). A survey of graph neural networks in real world: imbalance, noise, privacy and OOD challenges. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. DOI: 10.1109/TPAMI.2025.3630673. 
 <br> [[Paper](../files/25.11.07-IEEE TPAMI A Survey of Graph Neural Networks in Real world- Imbalance, Noise, Privacy and OOD Challenges.pdf)] *<span style="color:red">IEEE TPAMI, JCR Q1, 中科院一区, CCF-A, IF=18.6</span>*
