@@ -11,12 +11,15 @@ author_profile: true
 2026
 ====
 1. Wei Ju, Wei Zhang, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Identifying and correcting label noise for robust GNNs via influence contradiction. *Accepted by the 43rd International Conference on Machine Learning*.
+<br> *<span style="color:red">ICML, CCF-A</span>*
 
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou<sup>\*</sup>, Xiaochun Cao, Jiancheng Lv (2026). Compactness and Consistency: A conjoint framework for deep graph clustering. *Accepted by the 14th International Conference on Learning Representations*.
-<br> *<span style="color:red">ICLR</span>*
+<br> [[Paper](../files/26-ICLR Oral 3102_Compactness and Consistency-A conjoint framework for deep graph clustering)]
+*<span style="color:red">ICLR</span>, CCF-A*
 
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-tailed recognition of evidential experts for graph-level classification. *Accepted by the ACM on Web Conference 2026*. 
-<br> *<span style="color:red">WWW, CCF-A</span>*
+<br> [[Paper](../files/26-WWW Long-Tailed Recognition of Evidential Experts for Graph-level Classification)]
+*<span style="color:red">WWW, CCF-A</span>*
 
 1. Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, **Siyu Yi**, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju (2026). KEGOD: Kernel-enhanced latent substructure learning for graph out-of-distribution detection. *Accepted by the ACM on Web Conference 2026*. 
 <br> *<span style="color:red">WWW, CCF-A</span>*
