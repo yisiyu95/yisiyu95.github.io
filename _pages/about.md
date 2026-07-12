@@ -21,7 +21,9 @@ Reviewer
 
 <span style="color:red"> 📢 What’s New</span>
 ====
+* **2026.07**: Two papers have been accepted by ***ACMMM 2026*** !!
 * **2026.05**: One paper has been accepted by ***ICML 2026*** !!
+* **2026.05**: One paper has been accepted by ***IJCAI 2026*** !!
 * **2026.01**: One paper has been accepted by ***ICLR 2026*** !!
 * **2026.01**: Two papers have been accepted by ***WWW 2026*** !!
 * **2025.11**: Two papers have been accepted by ***AAAI 2026*** !!
