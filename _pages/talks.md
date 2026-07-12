@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1.  第四届全国统计与数据科学联合会议青年学者工作坊，2026.07，贵阳，报告题目：**Towards label noise-robust GNNs via graph influence function**
+1.  第四届全国统计与数据科学联合会议青年学者工作坊，2026.07，贵阳，报告题目：Towards label noise-robust GNNs via graph influence function
 1.  西南大学数学与统计学院邀请报告，2025.12，重庆，报告题目：Uncertainty-aware deep graph clustering and its application in spatial transcriptomics data
 1.  第三届全国统计与数据科学联合会议，2025.07，杭州，Poster题目：Learning generalizable contrastive representations for graph zero-shot learning
 1.	International Chinese Statistical Association, China Conference 邀请报告，2023.07，成都，报告题目：Global likelihood sampler for multimodal distributions
