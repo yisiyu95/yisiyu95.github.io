@@ -11,6 +11,7 @@ redirect_from:
 
 Work
 ======
+* Associate Research Fellow (Full-time Research), Sichuan University, 2026.05-now
 * PostDoc in School of Mathematics, Sichuan University, 2024.07-now
 
 Visiting
