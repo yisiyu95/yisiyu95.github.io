@@ -14,7 +14,7 @@ Siyu Yi (易思宇) is currently a postdoc researcher in the School of Mathemati
 
 Reviewer
 =====
-- 2026: ICLR, ICML, AAAI, TAI, PR, Neurocomputing, Applied Soft Computing
+- 2026: ICLR, ICML, AAAI, TAI, PR, ESWA, Neurocomputing, Applied Soft Computing
 - 2025: ICLR, ICML, NeurIPS, ACL, AISTATS, KBS, ESWA, Entropy 
 - 2024: NeurIPS, ACMMM, TNNLS, Computer Science Review
 
