@@ -10,8 +10,13 @@ author_profile: true
 
 2026
 ====
+1. Jinghong Tang, Lezhi Chen, **Siyu Yi<sup>\*</sup>**, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju  (2026). stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement. *Pattern Recognition*, 180, 114585.
+<br> [[Paper](../files/26-PR stHGNN- Deciphering spatial transcriptomics data via dual hypergraph learning enhancement.pdf)]
+*<span style="color:red">PR, JCR Q1, IF=9.1</span>*
+
 1. Wei Ju, Wei Zhang, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Identifying and correcting label noise for robust GNNs via influence contradiction. *Accepted by the 43rd International Conference on Machine Learning*.
-<br> [[Paper](../files/26-ICML Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction.pdf)] *<span style="color:red">ICML, CCF-A</span>*
+<br> [[Paper](../files/26-ICML Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction.pdf)] 
+*<span style="color:red">ICML, CCF-A</span>*
 
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou<sup>\*</sup>, Xiaochun Cao, Jiancheng Lv (2026). Compactness and Consistency: A conjoint framework for deep graph clustering. *Accepted by the 14th International Conference on Learning Representations*.
 <br> [[Paper](../files/26-ICLR Oral 3102_Compactness and Consistency-A conjoint framework for deep graph clustering)]
