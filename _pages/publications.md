@@ -26,20 +26,21 @@ author_profile: true
 <br> [[Paper](../files/26-ICLR Oral 3102_Compactness and Consistency-A conjoint framework for deep graph clustering)]
 *<span style="color:red">ICLR, CCF-A</span>*
 
+
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-tailed recognition of evidential experts for graph-level classification. *Accepted by the ACM on Web Conference 2026*. 
 <br> [[Paper](../files/26-WWW Long-Tailed Recognition of Evidential Experts for Graph-level Classification)]
 *<span style="color:red">WWW, CCF-A</span>*
+
+1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
+Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
+<br> [[Paper](../files/26-AAAI Evidence-aware integration and domain identification of spatial transcriptomics data)]
+*<span style="color:red">AAAI, CCF-A</span>*
 
 1. Boyang Fan, Hengchuang Yin, **Siyu Yi**, Yifan Wang, Zhicheng Li, Leijiyu Zhou, Jiancheng Lv, Wei Ju. (2026) CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification. *Bioinformatics*. 
 <br> *<span style="color:red">CCF-A, JCR Q1, IF=5.497</span>*
 
 1. Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, **Siyu Yi**, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju (2026). KEGOD: Kernel-enhanced latent substructure learning for graph out-of-distribution detection. *Accepted by the ACM on Web Conference 2026*. 
 <br> *<span style="color:red">WWW, CCF-A</span>*
-
-1. Wei Zhang, **Siyu Yi<sup>\*</sup>**, Lezhi Chen, Yifan Wang, Ziyue Qiao,
-Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and domain identification of spatial transcriptomics data. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
-<br> [[Paper](../files/26-AAAI Evidence-aware integration and domain identification of spatial transcriptomics data)]
-*<span style="color:red">AAAI, CCF-A</span>*
 
 1. Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, **Siyu Yi**, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju (2026). FairGC: Fostering individual and group fairness for deep graph clustering. *Accepted by the 40th AAAI Conference on Artificial Intelligence*. 
 <br> *<span style="color:red">AAAI, CCF-A</span>*
