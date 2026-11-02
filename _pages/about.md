@@ -7,13 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Siyu Yi (易思宇) is currently a postdoc researcher in the School of Mathematics, Sichuan University (SCU), under the supervision of Prof. [Huazhen Lin](https://www.huazhenlin.com/). Before joining SCU, I received my Ph.D. degree in the School of Statistics and Data Science from Nankai University in 2024, under the supervision of Prof. [Yongdao Zhou](https://my.nankai.edu.cn/stat/zyd/list.htm). My current research interests lie primarily in the area of graph machine learning, bigdata subsampling, and AI4Science.
+Siyu Yi (易思宇) is currently a associate professor in the School of Mathematics, Sichuan University (SCU), under the supervision of Prof. [Huazhen Lin](https://www.huazhenlin.com/). Before joining SCU, I received my Ph.D. degree in the School of Statistics and Data Science from Nankai University in 2024, under the supervision of Prof. [Yongdao Zhou](https://my.nankai.edu.cn/stat/zyd/list.htm). My current research interests lie primarily in the area of graph machine learning, bigdata subsampling, and AI4Science.
 
 
 **Email:** siyuyi@scu.edu.cn
 
+Area Chair
+=====
+- 2027: ICLR, ICML
+
 Reviewer
 =====
+- 2027: AAAI
 - 2026: ICLR, ICML, AAAI, TAI, PR, ESWA, Neurocomputing, Applied Soft Computing
 - 2025: ICLR, ICML, NeurIPS, ACL, AISTATS, KBS, ESWA, Entropy 
 - 2024: NeurIPS, ACMMM, TNNLS, Computer Science Review
@@ -21,6 +26,7 @@ Reviewer
 
 <span style="color:red"> 📢 What’s New</span>
 ====
+* **2026.09**: One paper has been accepted by ***Bioinformatics*** !!
 * **2026.08**: One paper has been accepted by ***Artificial Intelligence*** !!
 * **2026.08**: One paper has been accepted by ***Pattern Recognition*** !!
 * **2026.07**: Two papers have been accepted by ***ACMMM 2026*** !!
