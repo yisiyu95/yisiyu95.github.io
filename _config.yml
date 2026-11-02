@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Siyu Yi's Homepage"
 title_separator          : "-"
 name                     : &name "Siyu Yi"
-description              : &description "PostDoc at Sichuan University"
+description              : &description "Associate Professor at Sichuan University"
 url                      : https://yisiyu95.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yisiyu95/yisiyu95.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Siyu Yi"
   pronouns         : # example: "she/her"  
   bio              : |
-    PostDoc, <br>
+    Associate Professor, <br>
     School of Mathematics <br>
     Sichuan University
   location         : "Chengdu, China"
