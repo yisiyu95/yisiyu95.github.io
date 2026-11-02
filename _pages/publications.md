@@ -10,6 +10,14 @@ author_profile: true
 
 2026
 ====
+1. **Siyu Yi**, Wei Zhang, Zhengyang Mao, Yongdao Zhou, Ziyue Qiao, Li Shen, Dacheng Tao, Jiancheng Lv, and Wei Ju (2026). Evidence-guided learning against noisy and sparse labels on graphs. *Artificial Intelligence*, 360, 104608.
+<br> [[Paper](../files/26.09.02-AIJ Evidence-guided learning against noisy and sparse labels on graphs.pdf)]
+*<span style="color:red">AIJ, CCF-A, JCR Q1, IF=4.7</span>*
+
+1. Jinghong Tang, Lezhi Chen, **Siyu Yi<sup>\*</sup>**, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju  (2026). stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement. *Pattern Recognition*, 180, 114585.
+<br> [[Paper](../files/26-PR stHGNN- Deciphering spatial transcriptomics data via dual hypergraph learning enhancement.pdf)]
+*<span style="color:red">PR, JCR Q1, IF=9.1</span>*
+
 1. Jinghong Tang, Lezhi Chen, **Siyu Yi<sup>\*</sup>**, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju  (2026). stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement. *Pattern Recognition*, 180, 114585.
 <br> [[Paper](../files/26-PR stHGNN- Deciphering spatial transcriptomics data via dual hypergraph learning enhancement.pdf)]
 *<span style="color:red">PR, JCR Q1, IF=9.1</span>*
@@ -25,6 +33,9 @@ author_profile: true
 1. Wei Ju, **Siyu Yi<sup>\*</sup>**, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang<sup>\*</sup> (2026). Long-tailed recognition of evidential experts for graph-level classification. *Accepted by the ACM on Web Conference 2026*. 
 <br> [[Paper](../files/26-WWW Long-Tailed Recognition of Evidential Experts for Graph-level Classification)]
 *<span style="color:red">WWW, CCF-A</span>*
+
+1. Boyang Fan, Hengchuang Yin, **Siyu Yi**, Yifan Wang, Zhicheng Li, Leijiyu Zhou, Jiancheng Lv, Wei Ju. (2026) CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification. *Bioinformatics*. 
+<br> *<span style="color:red">CCF-A, JCR Q1, IF=5.497</span>*
 
 1. Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, **Siyu Yi**, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju (2026). KEGOD: Kernel-enhanced latent substructure learning for graph out-of-distribution detection. *Accepted by the ACM on Web Conference 2026*. 
 <br> *<span style="color:red">WWW, CCF-A</span>*
