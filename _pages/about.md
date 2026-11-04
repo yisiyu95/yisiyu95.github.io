@@ -83,7 +83,7 @@ Yongdao Zhou, and Wei Ju<sup>\*</sup> (2026). Evidence-aware integration and dom
 <br> [[Paper](../files/25.02.27-AAAI C3GNN Cluster-guided Contrastive Class-imbalanced Graph Classification.pdf)] *<span style="color:red">AAAI, CCF-A</span>* -->
 
 1.  **Siyu Yi**, Wei Ju, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang (2024). Redundancy-free self-supervised relational learning for graph clustering. *IEEE Transactions on Neural Networks and Learning Systems*, 35(12), 18313-18327. 
-<br> [[Paper](../files/24.11.27-IEEE TNNLS Redundancy-free self-supervised relational learning for graph clustering.pdf)] *<span style="color:red">TNNLS, JCR Q1，中科院一区，IF=10.4</span>*
+<br> [[Paper](../files/24.11.27-IEEE TNNLS Redundancy-free self-supervised relational learning for graph clustering.pdf)] *<span style="color:red">IEEE TNNLS, JCR Q1，中科院一区，IF=10.4</span>*
 
 1.  Wei Ju, Zhengyang Mao, **Siyu Yi<sup>\*</sup>**, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang<sup>\*</sup> (2024). Hypergraph-enhanced dual semi-supervised graph classification. In *Proceedings of the 41st International Conference on Machine Learning*, 22594-22604. 
 <br> [[Paper](../files/24.07.21-ICML Hypergraph-enhanced dual semi-supervised graph classification.pdf)] *<span style="color:red">ICML, CCF-A</span>*
