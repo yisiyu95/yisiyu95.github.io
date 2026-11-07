@@ -35,14 +35,14 @@ Reviewer
 * **2026.01**: One paper has been accepted by ***ICLR 2026*** !!
 * **2026.01**: Two papers have been accepted by ***WWW 2026*** !!
 * **2025.11**: Two papers have been accepted by ***AAAI 2026*** !!
-* **2025.11**: One paper has been accepted by ***TPAMI*** !!
+* **2025.11**: One paper has been accepted by ***IEEE TPAMI*** !!
 * **2025.09**: One paper has been accepted by ***NeurIPS 2025*** !!
 * **2025.04**: One paper has been accepted by ***IJCAI 2025*** !!
-* **2025.02**: One paper has been accepted by ***TMM*** !!
-* **2025.01**: One paper has been accepted by ***TMM*** !!
+* **2025.02**: One paper has been accepted by ***IEEE TMM*** !!
+* **2025.01**: One paper has been accepted by ***IEEE TMM*** !!
 * **2025.01**: One paper has been accepted by ***Information Processing and Management*** !!
 * **2024.12**: One paper has been accepted by ***AAAI 2025*** !!
-* **2024.11**: One paper has been accepted by ***TKDD*** !!
+* **2024.11**: One paper has been accepted by ***ACM TKDD*** !!
 
 
 Selected Publications [[See All](https://yisiyu95.github.io/publications/)]
