@@ -18,7 +18,7 @@ Area Chair
 
 Reviewer
 =====
-- 2027: AAAI
+- 2027: WWW, AAAI
 - 2026: ICLR, ICML, AAAI, TAI, PR, ESWA, Neurocomputing, Applied Soft Computing
 - 2025: ICLR, ICML, NeurIPS, ACL, AISTATS, KBS, ESWA, Entropy 
 - 2024: NeurIPS, ACMMM, TNNLS, Computer Science Review
